@@ -1,0 +1,8 @@
+*.bak
+*.tmp
+*.temp
+*.log
+Thumbs.db
+Desktop.ini
+.vscode/
+*.autosave
