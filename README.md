@@ -27,7 +27,7 @@ The project was developed as part of my networking portfolio to strengthen my un
 ![Network Topology](screenshots/network-topology.png)
 
 ```
-                                                    EDGE-RTR
+                                                 EDGE-RTR
                                             (Router-on-a-Stick)
                                                     │
                                                 802.1Q Trunk
@@ -36,7 +36,7 @@ The project was developed as part of my networking portfolio to strengthen my un
                                 ┌─────────┬─────────┬─────────┬─────────────┐
                                 │         │         │         │             │         
                                 IT      Finance   Customer   Management   Printers
-                                VLAN10    VLAN20     VLAN30      VLAN40      VLAN50
+                              VLAN10    VLAN20     VLAN30      VLAN40      VLAN50
 ```
 
 ---
