@@ -104,9 +104,9 @@ Connectivity was validated by performing ICMP ping tests between hosts located i
 enterprise-vlan-network/
 │
 ├── README.md
-├── topology/
 ├── configs/
 ├── documentation/
+├── file/
 └── screenshots/
 ```
 
