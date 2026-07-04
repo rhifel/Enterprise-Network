@@ -33,8 +33,8 @@ The project was developed as part of my networking portfolio to strengthen my un
                 802.1Q Trunk
                      │
                  ACCESS-SW1
- ┌─────────┬─────────┬─────────┬─────────────┬─────────┐
- │         │         │         │             │         │
+ ┌─────────┬─────────┬─────────┬─────────────┐
+ │         │         │         │             │         
 IT      Finance   Customer   Management   Printers
 VLAN10    VLAN20    VLAN30      VLAN40      VLAN50
 ```
